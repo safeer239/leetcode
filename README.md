@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/safeer239/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/safeer239/leetcode/tree/master/0069-sqrtx) |
 | [2383-add-two-integers](https://github.com/safeer239/leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/safeer239/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/safeer239/leetcode/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/safeer239/leetcode/tree/master/0053-maximum-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/safeer239/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
