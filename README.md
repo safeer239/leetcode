@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/safeer239/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/safeer239/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
+| [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
 | [1651-shuffle-string](https://github.com/safeer239/leetcode/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/safeer239/leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
