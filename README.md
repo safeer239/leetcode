@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/safeer239/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/safeer239/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
 | [2383-add-two-integers](https://github.com/safeer239/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/safeer239/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -129,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/safeer239/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
