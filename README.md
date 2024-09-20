@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
 | [2383-add-two-integers](https://github.com/safeer239/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/safeer239/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/safeer239/leetcode/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/safeer239/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1651-shuffle-string](https://github.com/safeer239/leetcode/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
