@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/safeer239/leetcode/tree/master/0389-find-the-difference) |
 | [1205-defanging-an-ip-address](https://github.com/safeer239/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/safeer239/leetcode/tree/master/1651-shuffle-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/safeer239/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/safeer239/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/safeer239/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/safeer239/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/safeer239/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
