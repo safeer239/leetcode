@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/safeer239/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/safeer239/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
 | [0932-monotonic-array](https://github.com/safeer239/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/safeer239/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -127,18 +128,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/safeer239/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/safeer239/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/safeer239/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/safeer239/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/safeer239/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
