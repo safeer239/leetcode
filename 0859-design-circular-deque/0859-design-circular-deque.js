@@ -62,7 +62,10 @@ MyCircularDeque.prototype.getFront = function() {
  * @return {number}
  */
 MyCircularDeque.prototype.getRear = function() {
-     return this.queue.length > 0 ? this.queue[this.queue.length - 1] : -1;
+     if(this.queue.length>0){
+        return this.queue[this.queue.length-1]
+     }
+     return -1
 };
 
 /**
