@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/safeer239/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/safeer239/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/safeer239/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/safeer239/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
@@ -142,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/safeer239/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/safeer239/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/safeer239/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/safeer239/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/safeer239/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/safeer239/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/safeer239/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/safeer239/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/safeer239/leetcode/tree/master/0100-same-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/safeer239/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
