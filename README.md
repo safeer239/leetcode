@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/safeer239/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/safeer239/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/safeer239/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/safeer239/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
