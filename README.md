@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/safeer239/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/safeer239/leetcode/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/safeer239/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/safeer239/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2825-minimize-string-length](https://github.com/safeer239/leetcode/tree/master/2825-minimize-string-length) |
 ## Array
 |  |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/safeer239/leetcode/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/safeer239/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
