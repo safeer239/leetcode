@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/safeer239/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/safeer239/leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/safeer239/leetcode/tree/master/0461-hamming-distance) |
 ## Recursion
 |  |
 | ------- |
