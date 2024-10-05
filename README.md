@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/safeer239/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/safeer239/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2825-minimize-string-length](https://github.com/safeer239/leetcode/tree/master/2825-minimize-string-length) |
+| [3194-find-words-containing-character](https://github.com/safeer239/leetcode/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/safeer239/leetcode/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3194-find-words-containing-character](https://github.com/safeer239/leetcode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
