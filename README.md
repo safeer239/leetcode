@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/safeer239/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/safeer239/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/safeer239/leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/safeer239/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/safeer239/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/safeer239/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/safeer239/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/safeer239/leetcode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/safeer239/leetcode/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
