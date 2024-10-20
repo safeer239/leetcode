@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/safeer239/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/safeer239/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/safeer239/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/safeer239/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/safeer239/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/safeer239/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/safeer239/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
