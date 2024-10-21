@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/safeer239/leetcode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/safeer239/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/safeer239/leetcode/tree/master/3194-find-words-containing-character) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/safeer239/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/safeer239/leetcode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/safeer239/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/safeer239/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/safeer239/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/safeer239/leetcode/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/safeer239/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/safeer239/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |
 | ------- |
