@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/safeer239/leetcode/tree/master/1944-truncate-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/safeer239/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/safeer239/leetcode/tree/master/2825-minimize-string-length) |
+| [3019-furthest-point-from-origin](https://github.com/safeer239/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/safeer239/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/safeer239/leetcode/tree/master/3379-score-of-a-string) |
 ## Array
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/safeer239/leetcode/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/safeer239/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/safeer239/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3019-furthest-point-from-origin](https://github.com/safeer239/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Linked List
 |  |
 | ------- |
