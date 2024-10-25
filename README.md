@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/safeer239/leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/safeer239/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/safeer239/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/safeer239/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/safeer239/leetcode/tree/master/2825-minimize-string-length) |
 | [3019-furthest-point-from-origin](https://github.com/safeer239/leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3055-maximum-odd-binary-number](https://github.com/safeer239/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/safeer239/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/safeer239/leetcode/tree/master/3379-score-of-a-string) |
 ## Array
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/safeer239/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/safeer239/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3055-maximum-odd-binary-number](https://github.com/safeer239/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Trie
 |  |
 | ------- |
