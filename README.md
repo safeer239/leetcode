@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/safeer239/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/safeer239/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/safeer239/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1168-duplicate-zeros](https://github.com/safeer239/leetcode/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/safeer239/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/safeer239/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/safeer239/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/safeer239/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/safeer239/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/safeer239/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1168-duplicate-zeros](https://github.com/safeer239/leetcode/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
