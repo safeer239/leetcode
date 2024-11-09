@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/safeer239/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/safeer239/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/safeer239/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/safeer239/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/safeer239/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/safeer239/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
