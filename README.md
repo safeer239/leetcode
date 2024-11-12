@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/safeer239/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/safeer239/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/safeer239/leetcode/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/safeer239/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1205-defanging-an-ip-address](https://github.com/safeer239/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/safeer239/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/safeer239/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/safeer239/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/safeer239/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/safeer239/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
