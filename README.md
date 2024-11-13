@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/safeer239/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/safeer239/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/safeer239/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/safeer239/leetcode/tree/master/0066-plus-one) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/safeer239/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/safeer239/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/safeer239/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/safeer239/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/safeer239/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
