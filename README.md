@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/safeer239/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/safeer239/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/safeer239/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/safeer239/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/safeer239/leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/safeer239/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/safeer239/leetcode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/safeer239/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/safeer239/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/safeer239/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2756-buy-two-chocolates](https://github.com/safeer239/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/safeer239/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/safeer239/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/safeer239/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/safeer239/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2825-minimize-string-length](https://github.com/safeer239/leetcode/tree/master/2825-minimize-string-length) |
 ## Sorting
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/safeer239/leetcode/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/safeer239/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/safeer239/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/safeer239/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/safeer239/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3019-furthest-point-from-origin](https://github.com/safeer239/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Linked List
