@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/safeer239/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/safeer239/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/safeer239/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/safeer239/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/safeer239/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/safeer239/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/safeer239/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/safeer239/leetcode/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/safeer239/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/safeer239/leetcode/tree/master/0461-hamming-distance) |
 ## Recursion
