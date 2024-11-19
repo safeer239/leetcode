@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/safeer239/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/safeer239/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/safeer239/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/safeer239/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/safeer239/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/safeer239/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
