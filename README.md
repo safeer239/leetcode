@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/safeer239/leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/safeer239/leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/safeer239/leetcode/tree/master/3447-clear-digits) |
+| [3451-string-compression-iii](https://github.com/safeer239/leetcode/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
 | ------- |
