@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/safeer239/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/safeer239/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/safeer239/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/safeer239/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2756-buy-two-chocolates](https://github.com/safeer239/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3194-find-words-containing-character](https://github.com/safeer239/leetcode/tree/master/3194-find-words-containing-character) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/safeer239/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/safeer239/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/safeer239/leetcode/tree/master/1168-duplicate-zeros) |
+| [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/safeer239/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/safeer239/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/safeer239/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2825-minimize-string-length](https://github.com/safeer239/leetcode/tree/master/2825-minimize-string-length) |
 ## Sorting
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/safeer239/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/safeer239/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/safeer239/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2756-buy-two-chocolates](https://github.com/safeer239/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/safeer239/leetcode/tree/master/3226-minimum-number-game) |
 ## Counting
