@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/safeer239/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/safeer239/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/safeer239/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/safeer239/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/safeer239/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/safeer239/leetcode/tree/master/2383-add-two-integers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/safeer239/leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/safeer239/leetcode/tree/master/1656-count-good-triplets) |
 | [1944-truncate-sentence](https://github.com/safeer239/leetcode/tree/master/1944-truncate-sentence) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/safeer239/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/safeer239/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/safeer239/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/safeer239/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/safeer239/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/safeer239/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/safeer239/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/safeer239/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/safeer239/leetcode/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/safeer239/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/safeer239/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/safeer239/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/safeer239/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/safeer239/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
