@@ -363,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/safeer239/leetcode/tree/master/1656-count-good-triplets) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/safeer239/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
