@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/safeer239/leetcode/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/safeer239/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/safeer239/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/safeer239/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/safeer239/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/safeer239/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1646-kth-missing-positive-number](https://github.com/safeer239/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/safeer239/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/safeer239/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/safeer239/leetcode/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/safeer239/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/safeer239/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/safeer239/leetcode/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/safeer239/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/safeer239/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/safeer239/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/safeer239/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/safeer239/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/safeer239/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/safeer239/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/safeer239/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/safeer239/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/safeer239/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/safeer239/leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/safeer239/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/safeer239/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/safeer239/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/safeer239/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
