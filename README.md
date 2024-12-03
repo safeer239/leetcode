@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/safeer239/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/safeer239/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/safeer239/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/safeer239/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/safeer239/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/safeer239/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1168-duplicate-zeros](https://github.com/safeer239/leetcode/tree/master/1168-duplicate-zeros) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/safeer239/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/safeer239/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/safeer239/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/safeer239/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/safeer239/leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/safeer239/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/safeer239/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
