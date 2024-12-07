@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/safeer239/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/safeer239/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/safeer239/leetcode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/safeer239/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/safeer239/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/safeer239/leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/safeer239/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/safeer239/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/safeer239/leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/safeer239/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Stack
 |  |
