@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/safeer239/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/safeer239/leetcode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/safeer239/leetcode/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/safeer239/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/safeer239/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/safeer239/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/safeer239/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/safeer239/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/safeer239/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/safeer239/leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/safeer239/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/safeer239/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/safeer239/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1205-defanging-an-ip-address](https://github.com/safeer239/leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/safeer239/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/safeer239/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/safeer239/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/safeer239/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/safeer239/leetcode/tree/master/2058-concatenation-of-array) |
