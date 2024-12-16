@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/safeer239/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/safeer239/leetcode/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/safeer239/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/safeer239/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/safeer239/leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/safeer239/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/safeer239/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2756-buy-two-chocolates](https://github.com/safeer239/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/safeer239/leetcode/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/safeer239/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
