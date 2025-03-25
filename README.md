@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/safeer239/leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/safeer239/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/safeer239/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/safeer239/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2427-first-letter-to-appear-twice](https://github.com/safeer239/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2580-circular-sentence](https://github.com/safeer239/leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/safeer239/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/safeer239/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/safeer239/leetcode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/safeer239/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/safeer239/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/safeer239/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/safeer239/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/safeer239/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/safeer239/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/safeer239/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/safeer239/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/safeer239/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/safeer239/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/safeer239/leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/safeer239/leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/safeer239/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/safeer239/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/safeer239/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2756-buy-two-chocolates](https://github.com/safeer239/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/safeer239/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Trie
